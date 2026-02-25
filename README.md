@@ -1,30 +1,21 @@
 # C To-Do List
 
-Basit bir **C dili** ile yazılmış konsol tabanlı To-Do List (Görev Listesi) uygulaması.  
-Bu program ile görev ekleyebilir, listeleyebilir, silebilir ve tamamlandı olarak işaretleyebilirsiniz.
+A simple **C language** console-based To-Do List application.  
+This program allows you to add tasks, list them, delete tasks, and mark tasks as completed.
 
 ---
 
-## Özellikler
+## Features
 
-- Görev ekleme
-- Görevleri listeleme
-- Görev silme
-- Görev tamamlandı olarak işaretleme
-- Konsol tabanlı kullanım
-
----
-
-## Gereksinimler
-
-- C derleyicisi (GCC, Clang veya Visual Studio)
-- Windows, macOS veya Linux
+- Add a task
+- List tasks
+- Delete a task
+- Mark a task as completed
+- Console-based
 
 ---
 
-## Kurulum
+## Requirements
 
-1. Kodları indirin veya GitHub’dan klonlayın:
-
-```bash
-git clone <REPO_URL>
+- C compiler (GCC, Clang, or Visual Studio)
+- Windows, macOS, or Linux
